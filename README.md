@@ -7,7 +7,6 @@ Este proyecto contiene pruebas automatizadas utilizando *Playwright* para valida
 ## Sitio utilizado
 [https://practicetestautomation.com/practice-test-login/]
 
-(https://practicetestautomation.com/practice-test-login/)
 
 ## ¿Qué se prueba?
 - Inicio de sesión con credenciales válidas
