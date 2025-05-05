@@ -1,0 +1,22 @@
+{
+  "name": "playwright-web-automation-login",
+  "version": "1.0.0",
+  "description": "Automatizacion de login con playwright\r # Playwright Web Automation - Login Test",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dcintron01/Playwright-web-automation-login.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dcintron01/Playwright-web-automation-login/issues"
+  },
+  "homepage": "https://github.com/dcintron01/Playwright-web-automation-login#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.52.0",
+    "@types/node": "^22.15.3"
+  }
+}
